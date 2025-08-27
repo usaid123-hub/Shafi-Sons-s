@@ -115,7 +115,7 @@ body {
   height: 63vh;               /* half screen */
   border-radius: 10px 50px 10px 50px;
   min-height: 320px; 
-   box-shadow: 0 0 10px rgb(229, 233, 4), 0 0 20px rgb(95, 95, 94);  
+   box-shadow: 0 0 10px rgb(229, 233, 4), 0 0 20px rgb(107, 107, 105);  
      /* optional safety for tiny screens */
 }
 
